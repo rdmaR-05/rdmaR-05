@@ -59,7 +59,7 @@ I focus on building systems that solve real-world concurrency and scaling proble
 ---
 
 ## 📈 Coding Profiles
-* **LeetCode:** [Rating 1807 (Top 7.5%)](https://leetcode.com/rdmaR-05)
+* **LeetCode:** [Rating 1807 (Top 7.5%)](https://leetcode.com/u/rd_05/)
 * **CodeChef:** 2-Star (1551)
 * **Codeforces:** Pupil (Max: 1391)
 
