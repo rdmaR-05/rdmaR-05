@@ -61,5 +61,5 @@ A Retrieval-Augmented Generation (RAG) pipeline designed to strictly audit datas
 | Platform | Standing | Link |
 | :--- | :--- | :--- |
 | **LeetCode** | Rating 1807 *(Top 7.5% Globally)* | [View Profile](https://leetcode.com/u/rd_05/) |
-| **CodeChef** | 2-Star *(Max 1551)* | - |
-| **Codeforces** | Pupil *(Max 1391)* | - |
+| **CodeChef** | 2-Star *(Max 1551)* | [View Profile](https://www.codechef.com/users/rhutvijnoobie) |
+| **Codeforces** | Pupil *(Max 1391)* | [View Profile](https://codeforces.com/profile/Rd_05) |
