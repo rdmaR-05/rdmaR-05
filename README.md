@@ -7,7 +7,7 @@
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rhutvij-dharme-96590824a/)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rhutvijrsd10@gmail.com)
-  [![LeetCode](https://img.shields.io/badge/LeetCode_1807-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/rd_05/)
+  [![LeetCode](https://img.shields.io/badge/LeetCodeKnight_1864-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/rd_05/)
 
 </div>
 
@@ -60,6 +60,6 @@ A Retrieval-Augmented Generation (RAG) pipeline designed to strictly audit datas
 
 | Platform | Standing | Link |
 | :--- | :--- | :--- |
-| **LeetCode** | Rating 1807 *(Top 7.5% Globally)* | [View Profile](https://leetcode.com/u/rd_05/) |
+| **LeetCode** | Rating 1864 *(Top 5.68% Globally)* | [View Profile](https://leetcode.com/u/rd_05/) |
 | **CodeChef** | 2-Star *(Max 1551)* | [View Profile](https://www.codechef.com/users/rhutvijnoobie) |
 | **Codeforces** | Pupil *(Max 1391)* | [View Profile](https://codeforces.com/profile/Rd_05) |
